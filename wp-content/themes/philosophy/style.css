@@ -1,0 +1,30 @@
+/*
+Theme Name : Philosophy
+Theme URI   :
+Author : Tanvir
+Author URI : www.mydomain.cm
+Description : Our first HyperMinimal Theme
+Version :1.0
+License : GNU General Public License v2 Or later
+License URI : http://www.gnu.org/license/gpl-2.0.html
+Tags : education, blog
+Text Domain : philosophy
+*/
+
+
+.header__logo h1{
+    margin: 0px;
+    font-weight: bold;
+}
+.header__logo a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.about_us i{
+    color: #0c0c0c;
+}
+
+.about_us_heading{
+    padding-bottom: 10px;
+}
